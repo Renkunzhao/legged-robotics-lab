@@ -6,6 +6,21 @@ Built to help researchers quickly discover, categorize, and compare relevant wor
 
 ---
 
+## Toolkits
+
+| Project | Description |
+|--------|------- |
+| [mink](https://github.com/kevinzakka/mink) | Python inverse kinematics based on MuJoCo
+| [pinocchio](https://github.com/stack-of-tasks/pinocchio) | Rigid Body Dynamics algorithms and their analytical derivatives
+
+---
+
+## 📦 Project List
+
+| Project | Tasks | Tags | Description |
+|--------|-------|------|-------------|
+| [unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) | Locomotion | RL, Humanoid(G1) & Quadruped(Go2), HW | Real-world RL deployment on Unitree platforms |
+
 ## 🔖 Tag Legend
 
 Use tags to mix and match method, robot, simulator, and deployment.
@@ -42,12 +57,6 @@ Use tags to mix and match method, robot, simulator, and deployment.
    - **HW**: Hardware deployment
 
 ---
-
-## 📦 Project List
-
-| Project | Tasks | Tags | Description |
-|--------|-------|------|-------------|
-| [unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) | Locomotion | RL, Humanoid(G1) & Quadruped(Go2), HW | Real-world RL deployment on Unitree platforms |
 
 ## 📚 Surveys & Collections
 
