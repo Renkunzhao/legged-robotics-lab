@@ -1,2 +1,68 @@
-# legged-robotics-lab
-A research-oriented collection of code, papers, and resources for legged robotics and model- and learning-based control.
+# Legged Robotics Open-source Projects
+
+A curated index of open-source legged robotics projects spanning **model-based control**, **reinforcement learning**, **imitation learning**, **humanoids**, **quadrupeds**, and **simulation platforms**.
+
+Built to help researchers quickly discover, categorize, and compare relevant work.
+
+---
+
+## 🔖 Tag Legend
+
+Use tags to mix and match method, robot, simulator, and deployment.
+
+1. Tasks
+   - **Locomotion**: Walking/running on flat or uneven terrain
+   - **Acrobatics**: Parkour, jumps, flips, handstands, dancing
+     - **Parkour/Agility**: Dynamic, complex movement sequences
+     - **Jump/Hop**: Vertical or gap-clearing jumps
+     - **Flip**: Aerial rotations (front/back)
+     - **Handstand/Legstand**: Inverted balancing poses
+     - **Dance**: Rhythmic, style-focused motions
+     - **Ground Parkour/Rolling**: Falling, rolling, and getting up
+   - **Perception/Navigation**: Stairs, gaps, obstacles, uneven surfaces
+   - **Manipulation**: Coordinated arm-leg or multi-limb actions
+2. Methods
+   - **IL**: Imitation learning / motion tracking
+   - **RL**: Reinforcement learning
+   - **MB**: Model-based control / optimization
+3. Robots (Unitree G1/Go2 are explicitly noted when supported)
+   - **Humanoid(W)**: (Wheeled) humanoid platforms
+   - **Quadruped(W)**: (Wheeled) quadruped platforms
+   - **Dual-Arm(W)**: (Wheeled) dual-arm platforms
+   - **G1**: Unitree G1 humanoid
+   - **Go2**: Unitree Go2 quadruped
+4. Sim Platforms
+   - **Mujoco**
+   - **IsaacSim/Gym**
+   - **Gazebo**
+   - **Raisim**
+   - **PyBullet**
+5. Deployment
+   - **Sim**: Simulation-focused
+   - **HW**: Hardware deployment
+
+---
+
+## 📦 Project List
+
+| Project | Tasks | Tags | Description |
+|--------|-------|------|-------------|
+| [unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) | Locomotion | RL, Humanoid(G1) & Quadruped(Go2), HW | Real-world RL deployment on Unitree platforms |
+
+## 📚 Surveys & Collections
+
+<details>
+<summary><strong>Survey / Awesome Lists</strong></summary>
+
+- [many-quadrupeds](https://github.com/beduffy/many-quadrupeds)
+
+</details>
+
+---
+
+
+## ✍️ Notes
+
+- This list is **not exhaustive** and will evolve.
+- Tags reflect the **primary contribution**; secondary aspects may be omitted for brevity.
+- Contributions and suggestions are welcome.
