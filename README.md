@@ -10,16 +10,19 @@ Built to help researchers quickly discover, categorize, and compare relevant wor
 
 | Project | Description |
 |--------|------- |
+| [robot_viewer](https://viewer.robotsfan.com/) | A web-based 3D viewer for robot models and scenes supporting URDF, MJCF (Mujoco XML), USD (partial support) formats.
 | [mink](https://github.com/kevinzakka/mink) | Python inverse kinematics based on MuJoCo
+| [pyroki](https://github.com/chungmin99/pyroki) | A Modular Toolkit for Robot Kinematic Optimization
 | [pinocchio](https://github.com/stack-of-tasks/pinocchio) | Rigid Body Dynamics algorithms and their analytical derivatives
 
 ---
 
 ## 📦 Project List
 
-| Project | Tasks | Tags | Description |
-|--------|-------|------|-------------|
-| [unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) | Locomotion | RL, Humanoid(G1) & Quadruped(Go2), HW | Real-world RL deployment on Unitree platforms |
+| Project | Tasks | Methods | Robots | Trainning simulator | Deploy | Description |
+|--------|-------|------|------|------|------|-------------|
+| [unitree_rl_lab](https://github.com/unitreerobotics/unitree_rl_lab) | Locomotion | RL | Humanoid(G1) & Quadruped(Go2)| IsaacSim | HW | Real-world RL deployment on Unitree platforms |
+| [Stage-Wise CMORL](https://github.com/rllab-snu/Stage-Wise-CMORL/tree/main) | Acrobatics (Flip, Stand) | RL | Quadruped(Go1) | IsaacGym | None | Learning challenge acrobatic maneuvers for quadrupeds |
 
 ## 🔖 Tag Legend
 
